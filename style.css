@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    font-family: 'Merriweather', serif;
+}
+h1{
+     font-size: 60px;
+}
+.name-lighlight{
+    color: darkmagenta;
+}
+.half-width{
+    width: 40%;
+    padding-left: 2%;
+    margin-left: 5%;
+    float: left;
+}
+.half-width img{
+    width: 100%;
+    float: right;
+}
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+
+}
+section{
+    height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    color: lawngreen;
+    font-weight: 800;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg,pink,olive);
+}
+.dream-area{
+    background-image: url("images/dream-bg.png");
+}
+h2{
+    font-size: 60px;
+}
